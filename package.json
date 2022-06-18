@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "axios": "^0.27.2",
-    "react": "15.0.0",
+    "react": "16.5.0",
     "react-dom": "15.0.0",
     "react-router-dom": "4.2.2",
     "react-waypoint": "^8.0.3"
