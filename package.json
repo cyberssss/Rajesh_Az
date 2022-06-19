@@ -16,7 +16,7 @@
     "react": "16.5.0",
     "react-dom": "15.0.0",
     "react-router-dom": "4.2.2",
-    "react-waypoint": "^8.0.3"
+    "react-waypoint": "^8.1.0"
   },
   "devDependencies": {
     "babel": "^6.3.13",
